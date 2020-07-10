@@ -1,0 +1,20 @@
+{
+  "streams": [
+    {
+      "title": "Untitled No.1",
+      "description": "This is a stream which is untitled called untitled No.1",
+      "id": 1
+    },
+    {
+      "title": "Untitled No.2",
+      "description": "This is a stream which is not  titled called untitled No.2",
+      "id": 2
+    },
+    {
+      "title": "Untitled No.3",
+      "description": "This is a stream which is not  titled called untitled No.3",
+      "userId": "116358091265186530969",
+      "id": 3
+    }
+  ]
+}
